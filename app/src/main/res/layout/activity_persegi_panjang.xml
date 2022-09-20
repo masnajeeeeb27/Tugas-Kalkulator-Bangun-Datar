@@ -10,7 +10,7 @@
         android:id="@+id/textViewpersegi_panjang"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Luas Persegi Panjang"
+        android:text="Luas dan Keliling Persegi Panjang"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

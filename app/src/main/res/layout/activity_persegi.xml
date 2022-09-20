@@ -10,7 +10,7 @@
         android:id="@+id/textViewpersegi"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Luas Persegi"
+        android:text="Luas dan Keliling Persegi"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
